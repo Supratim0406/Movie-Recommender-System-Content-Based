@@ -1,7 +1,5 @@
-# Movie-Recommender-System-Content-Based
 # Project: Movie-Recommender-System-Content-Based
 
-<img src="demo/6.jpeg" alt="workflow" width="70%">
 
 Recommendation systems are becoming increasingly important in today’s extremely busy world. People are always short on time with the myriad tasks they need to accomplish in the limited 24 hours. Therefore, the recommendation systems are important as they help them make the right choices, without having to expend their cognitive resources.
 
@@ -59,15 +57,6 @@ This is a streamlit web application that can recommend various kinds of similar 
 here is a demo,
 
 * [Click here to run it live on server](https://movie-recommeder-system.herokuapp.com/)
-
-
-# Demo:
-
-<img src="demo/1.png" alt="workflow" width="70%">
-
-<img src="demo/2.png" alt="workflow" width="70%">
-
-<img src="demo/3.png" alt="workflow" width="70%">
 
 
 # Dataset has been used:
