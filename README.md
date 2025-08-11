@@ -5,7 +5,7 @@ Recommendation systems are becoming increasingly important in today’s extremel
 
 The purpose of a recommendation system basically is to search for content that would be interesting to an individual. Moreover, it involves a number of factors to create personalised lists of useful and interesting content specific to each user/individual. Recommendation systems are Artificial Intelligence based algorithms that skim through all possible options and create a customized list of items that are interesting and relevant to an individual. These results are based on their profile, search/browsing history, what other people with similar traits/demographics are watching, and how likely are you to watch those movies. This is achieved through predictive modeling and heuristics with the data available.
 
-<img width="2000" height="781" alt="image" src="https://github.com/user-attachments/assets/f1286aa9-a5eb-4468-b5c7-14d54cb3f92f" />
+<img width="2000" height="781" alt="image" src="https://github.com/user-attachments/assets/a4f9507f-9947-4fab-a4fa-53ef8f6f1588" />
 
 
 # Types of Recommendation System :
@@ -58,6 +58,8 @@ The purpose of a recommendation system basically is to search for content that w
 
 This is a streamlit web application that can recommend various kinds of similar movies based on an user interest.
 here is a demo,
+
+<img width="3388" height="1842" alt="image" src="https://github.com/user-attachments/assets/561a820a-0da9-4dcd-8cb5-9afb3943b6c9" />
 
 
 # Dataset has been used:
