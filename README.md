@@ -10,6 +10,9 @@ The purpose of a recommendation system basically is to search for content that w
 
 # Types of Recommendation System :
 
+<img width="700" height="428" alt="image" src="https://github.com/user-attachments/assets/041af5a3-a931-4059-bf1f-c5795175f76e" />
+
+
 ### 1 ) Content Based :
 
 - Content-based systems, which use characteristic information and takes item attriubutes into consideration .
