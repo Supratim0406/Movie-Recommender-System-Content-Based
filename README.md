@@ -82,7 +82,7 @@ here is a demo,
 Clone the repository
 
 ```bash
-https://github.com/entbappy/Movie-Recommender-System-Using-Machine-Learning.git
+https://github.com/Supratim0406/Movie-Recommender-System-Content-Based.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
